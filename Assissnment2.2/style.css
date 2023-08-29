@@ -1,0 +1,49 @@
+.shadowbox {
+  padding-top: .50in;
+  width: 15em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+}
+
+aside {
+    width: 40%;
+    padding-left: 0.2rem;
+    margin-left: 0.5rem;
+    float: right;
+    box-shadow: inset 5px 0 5px -5px #29627e;
+    font-style: italic;
+    font-size: .09;
+    color: #fdfdfd;
+  }
+  
+  aside > p {
+    margin: 0.5rem;
+  }
+
+ul {
+    color:coral
+}
+
+li {
+    color:coral
+}
+
+h1 {
+    padding-bottom: .50in;
+    padding-top: .75in;
+    color:coral
+    
+}
+
+h2 {
+    padding-top: .50in;
+    padding-bottom: .50in;
+    color:coral
+}
+
+a {
+    color: coral;
+}
+
